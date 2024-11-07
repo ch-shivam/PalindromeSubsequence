@@ -32,7 +32,7 @@ public class LongestPalindromicSubsequence {
     }
 
     public static void main(String[] args) {
-        String s = "aa";
+        String s = "axdybda";
         System.out.println("Length of longest palindromic subsequence: " + longestPalindromicSubsequence(s));
     }
 }
